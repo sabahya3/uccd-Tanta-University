@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532044324935",
+    "project_id": "uccd-tanta-university",
+    "storage_bucket": "uccd-tanta-university.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532044324935:android:9955dfe89c97e48ca91162",
+        "android_client_info": {
+          "package_name": "com.sabahya10.secound_version"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532044324935-nh969spk99eimbs1k7h0noemqj9ipg2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvu18ImdnodVDRuyGwtmQKuq35rMj0Ag0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532044324935-nh969spk99eimbs1k7h0noemqj9ipg2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
